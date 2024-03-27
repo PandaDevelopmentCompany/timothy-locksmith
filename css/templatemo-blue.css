@@ -1,14 +1,9 @@
-/*
 
-Easy Profile Template
-http://www.templatemo.com/tm-467-easy-profile
-
-*/
 
 html, body {
   margin:0;border:0;padding:0;
   font-size:16px;
-  font-family:'Proxima';
+  font-family:'Montserrat';
   overflow-x:hidden;
   position: relative;
   vertical-align: baseline;
@@ -30,7 +25,7 @@ h2 {
 }
 
 .accent {
-  font-family: 'Proxima Bold';
+  font-family: 'Montserrat';
   line-height: 14px;
   color: #60A9F0;
 }
@@ -68,15 +63,15 @@ h2 {
   margin-top: 30px;
 }
 
-@font-face {
+/*@font-face {
     font-family: 'Proxima';
     src: url(../fonts/ProximaNova-Regular.otf);
-}
+}*/
 
-@font-face {
+/*@font-face {
     font-family: 'Proxima Bold';
     src: url(../fonts/ProximaNova-Bold.otf);
-}
+}*/
 
 /* preloader section */
 .preloader {
