@@ -284,3 +284,12 @@ footer {
     font-size: 20px;
   }
 }
+
+
+
+
+
+
+img.img-responsive.img-circle.tm-border {
+  width: 250px !important;
+}
