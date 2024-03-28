@@ -293,3 +293,40 @@ footer {
 img.img-responsive.img-circle.tm-border {
   width: 250px !important;
 }
+
+
+
+
+@media screen and (max-width: 375px) {
+  h2.white {
+    font-size: 30px !important;
+  }
+}
+
+.skills strong {
+  width: 90%;
+}
+@media screen and (max-width: 768px) {
+  .skills strong {
+    width: 80%;
+  }
+}
+
+.border_radius_class {
+  border-radius: 20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* aaa */
