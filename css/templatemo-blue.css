@@ -310,6 +310,9 @@ img.img-responsive.img-circle.tm-border {
   .skills strong {
     width: 80%;
   }
+  header {
+    padding-top: 80px !important;
+  }
 }
 
 .border_radius_class {
