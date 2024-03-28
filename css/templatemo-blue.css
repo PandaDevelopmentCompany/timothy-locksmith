@@ -321,7 +321,11 @@ img.img-responsive.img-circle.tm-border {
 
 
 
-
+@media screen and (max-width: 768px) {
+  h4.education-title.accent {
+    line-height: 36px !important;
+  }
+}
 
 
 
